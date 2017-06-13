@@ -2,7 +2,7 @@ package run;
 
 public class Dd {
 	
-	public void test(){
+	public void ttest(){
 		
 	}
 
